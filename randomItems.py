@@ -3,7 +3,6 @@ import sys
 from pprint import pprint
 loot_table = 'LootTables/The One Loot Table To Rule Them All - Dungeon Loot.csv'
 def read_table(filename):
-    '''Computes the total cost (shares*price) of a portfolio file'''
     loot_table = []
     itemNum = 1
     with open(filename, 'rt') as f:
