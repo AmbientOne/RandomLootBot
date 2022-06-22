@@ -21,7 +21,7 @@ multidict==4.7.6
 mysql-connector==2.2.9
 mysql-connector-python-rf==2.2.2
 neat-python==0.92
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.3
 Pillow==6.2.0
 PyAudio==0.2.11
